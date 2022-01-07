@@ -6,7 +6,8 @@ The silicon dies were extracted from epoxy matrix with 70% nitric acid heated at
 I definitely do not recommend doing the process if you are not a skilled chemist with access to all necessary safety equipment (fumehood and individual protection against strong acids). 
 
 Images were taken with a magnification of x250 by default (may be more to reveal some details). 
-Full resolution images can be downloaded here: 
+
+For more detailed images, download the [full resolution images repositery](https://drive.google.com/file/d/1l8i0imOg5FQuac4omLrtJts2iJFMVVMm/view?usp=sharing)
 
 # Game Boy Camera MAC-GBD
 Datecode 9815, Camera CE10251329, PCB revision 11
