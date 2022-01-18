@@ -26,7 +26,7 @@ Detail of ligth sensors, pixels are arranged in 5+123 lines, 64 rows. Each row s
 
 ![Game Boy Camera CMOS detail](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Game%20Boy%20Camera%20Mitsubishi%20M64282FP_detail%20of%20light%20sensors.png)
 
-# Pocket Camera maskrom
+# Pocket Camera 1 MB maskrom
 Camera PC10449615, PCB revision 01 - [High resolution here](https://drive.google.com/file/d/1xGPd-S2JqzOhwf5aPOPGGmLtQ0v0OHIU/view?usp=sharing)
 
 ![Pocket Camera Maskrom](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Game%20Boy%20Camera%20maskrom-preview.png)
