@@ -3,7 +3,7 @@ A database of microscopic images of decapped (or not) chips from Game Boy cartri
 
 The silicon dies were extracted from epoxy matrix with 70% nitric acid heated at 250°C. The mineral carbon residuals were removed with nitro-chromic acid at 200-250°C. After rincing with deionized water, dies were finally gently cleaned with isopropanol and a nonwoven cotton fabric to remove any dust before imaging with professionnal equipment.
 
-I definitely do not recommend doing the process if you are not a skilled chemist with access to all necessary safety equipment (fumehood and individual protection against strong acids). 
+I definitely do not recommend doing the process if you are not a skilled chemist with access to all necessary safety equipment (fumehood and individual protection against strong acids). Chromic acid is highly carcinogenic and residuals must be treated as hazardous chemical waste.
 
 Images were taken with a magnification of x250 by default (may be more to reveal some details). 
 
