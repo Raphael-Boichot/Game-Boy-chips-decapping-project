@@ -20,6 +20,6 @@ Camera PC10449615, PCB revision 01 - High resolution here
 ![Pocket Camera Maskrom](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Game%20Boy%20Camera%20maskrom-preview.png)
 
 # DMG MBC1-B
-Unknown game - High resolution here
-![DMG MBC1-B](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Game%20Boy%20Camera%20maskrom-preview.png)
+Unknown game - [High resolution here]()
+![DMG MBC1-B](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/DMG%20MBC1-B-preview.png)
 
