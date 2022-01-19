@@ -1,7 +1,7 @@
 # Game-Boy-chips-decapping-project
 A database of microscopic images of decapped (or not) chips from Game Boy cartridges.
 
-The silicon dies were extracted from epoxy matrix with 70% nitric acid heated at 250°C. The mineral carbon residuals were removed with rapid bath in nitro-chromic acid at 200-250°C. After rincing with deionized water, dies were finally gently cleaned with isopropanol and a cotton bud to remove any dust and residue before imaging with professionnal equipment.
+The silicon dies were extracted from epoxy matrix by dipping chips in 70% nitric acid heated at 250°C until no red fumes degases from the beaker. The mineral carbon residuals were possibly removed with rapid bath in nitro-chromic acid at 200-250°C. After rincing with lot of deionized water, dies were finally gently cleaned with isopropanol and a cotton bud to remove any dust and residue before imaging with professionnal equipment.
 
 I definitely do not recommend doing the process if you are not a skilled chemist with access to all necessary safety equipment (fumehood and individual protection against strong acids). Chromic acid derivatives are highly carcinogenic / environmentally unfriendly and any residual must be disposed in hazardous chemical waste containers.
 
@@ -22,7 +22,7 @@ Camera CE10251329, sensor board revision 1 - [High resolution here](https://driv
 
 ![Game Boy Camera CMOS](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Game%20Boy%20Camera%20Mitsubishi%20M64282FP-previewg.png)
 
-Detail of ligth sensors, pixels are arranged in 5+123 lines, 64 rows. Each row share two pixels, the 5 first lines of pixels are adressable and return a blank signal. The effective image resolution is 128x123 pixels.
+Detail of ligth sensors, pixels are arranged in 5+123 lines, 64 rows. Each row share two pixels, the 5 first lines of pixels are adressable but return a blank signal (unknown function). The effective image resolution is 128x123 pixels.
 
 ![Game Boy Camera CMOS detail](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Game%20Boy%20Camera%20Mitsubishi%20M64282FP_detail%20of%20light%20sensors.png)
 
