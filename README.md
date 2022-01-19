@@ -22,7 +22,7 @@ Camera CE10251329, sensor board revision 1 - [High resolution here](https://driv
 
 ![Game Boy Camera CMOS](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Game%20Boy%20Camera%20Mitsubishi%20M64282FP-previewg.png)
 
-Detail of ligth sensors, pixels are arranged in 5+123 lines, 64 rows. Each row share two pixels, the 5 first lines of pixels are adressable but return a blank signal (unknown function). The effective image resolution is 128x123 pixels.
+Detail of ligth sensors, pixels are arranged in 5+123 lines, 64x2 rows. The 5 first lines of pixels are adressable but return a blank signal (unknown function). The effective image resolution is 128x123 pixels.
 
 ![Game Boy Camera CMOS detail](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Game%20Boy%20Camera%20Mitsubishi%20M64282FP_detail%20of%20light%20sensors.png)
 
