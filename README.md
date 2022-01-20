@@ -10,17 +10,17 @@ I definitely do not recommend doing the process if you are not a skilled chemist
 
 Images were taken with a magnification of x250 or x500 (depending on the total surface of the chip). Higher magnifications of some zones can be obtained on request (dies are still stored by the author).
 
-# DMG MBC1-B
+# Game Boy MBC1-B mapper
 Unknown game - Chip marking: **DMG MBC1-B Nintendo P 2°94** [High resolution here](https://drive.google.com/file/d/11IMe75MVlMv_imL12D-UjlCwxDRTgbdM/view?usp=sharing)
 
 ![DMG MBC1-B](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/DMG%20MBC1-B-preview.png)
 
-# MBC3
+# Game Boy MBC3 mapper
 Unknown game - Chip marking: **MBC3 P-1 734U2E** [High resolution here](https://drive.google.com/file/d/1aDTHwyut4xei_zgxTdFrbyyLH9tH_sX4/view?usp=sharing)
 
 ![DMG MBC3](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/DMG%20MBC3_preview.png)
 
-# Game Boy Camera MAC-GBD
+# Game Boy Camera MAC-GBD mapper
 Camera CE10251329, PCB revision 11 - Chip marking: **MAC-GBD Nintendo 9815 SA** [High resolution here](https://drive.google.com/file/d/1fUm43i4zzt71fiRKpbipy4eYC-yVmNwh/view?usp=sharing)
 
 ![MAC-GBD](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Game%20Boy%20Camera%20MAC-GBD-preview.png)
