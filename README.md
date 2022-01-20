@@ -15,8 +15,8 @@ Unknown game - Chip marking: **DMG MBC1-B Nintendo P 2°94** [High resolution he
 
 ![DMG MBC1-B](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/DMG%20MBC1-B-preview.png)
 
-# DMG MBC3
-Unknown game - Chip marking: **DMG MBC3 P-1 734U2E** [High resolution here](https://drive.google.com/file/d/1aDTHwyut4xei_zgxTdFrbyyLH9tH_sX4/view?usp=sharing)
+# MBC3
+Unknown game - Chip marking: **MBC3 P-1 734U2E** [High resolution here](https://drive.google.com/file/d/1aDTHwyut4xei_zgxTdFrbyyLH9tH_sX4/view?usp=sharing)
 
 ![DMG MBC3](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/DMG%20MBC3_preview.png)
 
