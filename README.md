@@ -5,12 +5,17 @@ The silicon dies were extracted from epoxy matrix by dipping chips in 70% nitric
 
 I definitely do not recommend doing the process if you are not a skilled chemist (or a completely mad guy) with access to all necessary safety equipment (fumehood and individual protection against strong acids). Chromic acid derivatives are highly carcinogenic / environmentally unfriendly and any residual must be disposed in hazardous chemical waste containers.
 
-Images were taken with a magnification of x250 or x500 by default (depends on the total surface of the chip). Higher magnifications of some zones can be obtained on request.
+Images were taken with a magnification of x250 or x500 (depending on the total surface of the chip). Higher magnifications of some zones can be obtained on request (dies are still stored by the author).
 
 # DMG MBC1-B
 Unknown game - Chip marking: **DMG MBC1-B Nintendo P 2°94** [High resolution here](https://drive.google.com/file/d/11IMe75MVlMv_imL12D-UjlCwxDRTgbdM/view?usp=sharing)
 
 ![DMG MBC1-B](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/DMG%20MBC1-B-preview.png)
+
+# DMG MBC3
+Unknown game - Chip marking: **DMG MBC3 P-1 734U2E** [High resolution here](https://drive.google.com/file/d/1aDTHwyut4xei_zgxTdFrbyyLH9tH_sX4/view?usp=sharing)
+
+![DMG MBC3](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/DMG%20MBC3_preview.png)
 
 # Game Boy Camera MAC-GBD
 Camera CE10251329, PCB revision 11 - Chip marking: **MAC-GBD Nintendo 9815 SA** [High resolution here](https://drive.google.com/file/d/1fUm43i4zzt71fiRKpbipy4eYC-yVmNwh/view?usp=sharing)
