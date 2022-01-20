@@ -4,9 +4,9 @@
 
 **Please credit, these images are original.**
 
-The silicon dies were extracted from epoxy matrix by dipping chips in 70% nitric acid heated at 250°C until no red fumes degases from the beaker. The mineral carbon residuals were possibly removed with rapid bath in nitro-chromic acid at 200-250°C. After rincing with lot of deionized water, dies were finally gently cleaned with isopropanol and a cotton bud to remove any dust and residue before imaging with professional equipment.
+The silicon dies were extracted from epoxy matrix by dipping chips in 70% nitric acid heated at 200-250°C until no red fumes degases from the beaker. The mineral carbon residuals were possibly removed with rapid bath in nitro-chromic acid at 200-250°C (not mandatory, very aggressive mixture). After rincing with lot of deionized water, dies were finally gently cleaned with isopropanol and a cotton bud to remove any dust and residue before imaging with professional equipment.
 
-I definitely do not recommend doing the process if you are not a skilled chemist (or a completely mad guy) with access to all necessary safety equipment (fumehood and individual protection against strong acids). Chromic acid derivatives are highly carcinogenic / environmentally unfriendly and any residual must be disposed in hazardous chemical waste containers.
+I definitely do not recommend doing the process if you are not a skilled chemist (or Furrtek). You will probably need some safety equipment (fumehood and individual protection against strong acids). Chromic acid derivatives are highly carcinogenic/environmentally unfriendly/nasty and any residual must be disposed in hazardous chemical waste containers. Doing the process bare hand in a backyard with a cooking plate is still a possible option if you like the thrill of danger. Depending on your country, just attempting to buy 70% nitric acid will introduce you to nice government databases too.
 
 Images were taken with a magnification of x250 or x500 (depending on the total surface of the chip). Higher magnifications of some zones can be obtained on request (dies are still stored by the author).
 
@@ -24,6 +24,7 @@ Unknown game - Chip marking: **MBC3 P-1 734U2E** [High resolution here](https://
 Camera CE10251329, PCB revision 11 - Chip marking: **MAC-GBD Nintendo 9815 SA** [High resolution here](https://drive.google.com/file/d/1fUm43i4zzt71fiRKpbipy4eYC-yVmNwh/view?usp=sharing)
 
 ![MAC-GBD](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MAC-GBD%20Nintendo%209815%20SA-preview.png)
+This chip was literally overcooked in nitro-chromic bath and suffered severe corrosion of metal pads.
 
 # Game Boy Camera Mitsubishi M64282FP
 Camera CE10251329, sensor board revision 1 - [High resolution here](https://drive.google.com/file/d/1t0iczgT00NVYwDEGJ-6-9WYSS4gzTDif/view?usp=sharing)
