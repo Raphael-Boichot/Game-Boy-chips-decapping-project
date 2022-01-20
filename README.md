@@ -1,10 +1,10 @@
 # Game-Boy-chips-decapping-project
 
-A database of microscopic images of decapped (or not) chips from Game Boy cartridges.
+**A database of microscopic images of decapped (or not) chips from Game Boy cartridges.**
 
 **Please credit, these images are original.**
 
-The silicon dies were extracted from epoxy matrix by dipping chips in 70% nitric acid heated at 250°C until no red fumes degases from the beaker. The mineral carbon residuals were possibly removed with rapid bath in nitro-chromic acid at 200-250°C. After rincing with lot of deionized water, dies were finally gently cleaned with isopropanol and a cotton bud to remove any dust and residue before imaging with professionnal equipment.
+The silicon dies were extracted from epoxy matrix by dipping chips in 70% nitric acid heated at 250°C until no red fumes degases from the beaker. The mineral carbon residuals were possibly removed with rapid bath in nitro-chromic acid at 200-250°C. After rincing with lot of deionized water, dies were finally gently cleaned with isopropanol and a cotton bud to remove any dust and residue before imaging with professional equipment.
 
 I definitely do not recommend doing the process if you are not a skilled chemist (or a completely mad guy) with access to all necessary safety equipment (fumehood and individual protection against strong acids). Chromic acid derivatives are highly carcinogenic / environmentally unfriendly and any residual must be disposed in hazardous chemical waste containers.
 
