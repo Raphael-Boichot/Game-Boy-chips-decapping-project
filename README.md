@@ -13,28 +13,28 @@ Images were taken with a magnification of x250 or x500 (depending on the total s
 # Game Boy MBC1-B mapper
 Unknown game - Chip marking: **DMG MBC1-B Nintendo P 2°94** [High resolution here](https://drive.google.com/file/d/11IMe75MVlMv_imL12D-UjlCwxDRTgbdM/view?usp=sharing)
 
-![DMG MBC1-B](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/DMG%20MBC1-B-preview.png)
+![DMG MBC1-B](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/DMG%20MBC1-B%20Nintendo%20P%202%C2%B094-preview.png)
 
 # Game Boy MBC3 mapper
 Unknown game - Chip marking: **MBC3 P-1 734U2E** [High resolution here](https://drive.google.com/file/d/1aDTHwyut4xei_zgxTdFrbyyLH9tH_sX4/view?usp=sharing)
 
-![DMG MBC3](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/DMG%20MBC3_preview.png)
+![DMG MBC3](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MBC3%20P-1%20734U2E-preview.png)
 
 # Game Boy Camera MAC-GBD mapper
 Camera CE10251329, PCB revision 11 - Chip marking: **MAC-GBD Nintendo 9815 SA** [High resolution here](https://drive.google.com/file/d/1fUm43i4zzt71fiRKpbipy4eYC-yVmNwh/view?usp=sharing)
 
-![MAC-GBD](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Game%20Boy%20Camera%20MAC-GBD-preview.png)
+![MAC-GBD](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MAC-GBD%20Nintendo%209815%20SA-preview.png)
 
 # Game Boy Camera Mitsubishi M64282FP
 Camera CE10251329, sensor board revision 1 - [High resolution here](https://drive.google.com/file/d/1t0iczgT00NVYwDEGJ-6-9WYSS4gzTDif/view?usp=sharing)
 
-![Game Boy Camera CMOS](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Game%20Boy%20Camera%20Mitsubishi%20M64282FP-previewg.png)
+![Game Boy Camera CMOS](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Mitsubishi%20M64282FP-preview.png)
 
 Detail of ligth sensors, pixels are arranged in 5+123 lines, 64x2 rows. The 5 first lines of pixels are adressable but return a blank signal (unknown function). The effective image resolution is 128x123 pixels.
 
-![Game Boy Camera CMOS detail](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Game%20Boy%20Camera%20Mitsubishi%20M64282FP_detail%20of%20light%20sensors.png)
+![Game Boy Camera CMOS detail](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Mitsubishi%20M64282FP_detail%20of%20light%20sensors.png)
 
 # Pocket Camera 1 MB maskrom
 Camera PC10449615, PCB revision 01 - Chip marking: **MX J9805-M MX23C8004-12 GBD-PCAJ-1 23718A** [High resolution here](https://drive.google.com/file/d/1xGPd-S2JqzOhwf5aPOPGGmLtQ0v0OHIU/view?usp=sharing)
 
-![Pocket Camera Maskrom](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Game%20Boy%20Camera%20maskrom-preview.png)
+![Pocket Camera Maskrom](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MX%20J9805-M%20MX23C8004-12%20GBD-PCAJ-1%2023718A.png)
