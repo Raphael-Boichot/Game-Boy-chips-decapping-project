@@ -20,11 +20,11 @@ Unknown game - Chip marking: **MBC3 P-1 734U2E** [High resolution here](https://
 
 ![MBC3 P-1 734U2E](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MBC3%20P-1%20734U2E-preview.png)
 
-Unknown game - Chip marking: **MBC 3 A P-2 945U2E** [High resolution here]()
+Unknown game - Chip marking: **MBC 3 A P-2 945U2E** [High resolution here](https://drive.google.com/file/d/12fmrYQCoV1VyUdKG_TbIVRGtba_tC930/view?usp=sharing)
 
 ![MBC 3 A P-2 945U2E](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MBC%203%20A%20P-2%20945U2E-preview.png)
 
-Unknown game - Chip marking: **MBC-3 A BU3632K 822 128** [High resolution here]()
+Unknown game - Chip marking: **MBC-3 A BU3632K 822 128** [High resolution here](https://drive.google.com/file/d/1lBIRyb209nLF1f5kokW9P1FRXQjIxA7J/view?usp=sharing)
 
 ![MBC-3 A BU3632K 822 128](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MBC-3%20A%20BU3632K%20822%20128-preview.png)
 
@@ -47,9 +47,9 @@ Detail of ligth sensors, pixels are arranged in 5+123 lines, 64x2 rows. The 5 fi
 # Pocket Camera 1 MB maskrom
 Camera PC10449615, PCB revision 01 - Chip marking: **MX J9805-M MX23C8004-12 GBD-PCAJ-1 23718A** [High resolution here](https://drive.google.com/file/d/1xGPd-S2JqzOhwf5aPOPGGmLtQ0v0OHIU/view?usp=sharing)
 
-![Pocket Camera Maskrom](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MX%20J9805-M%20MX23C8004-12%20GBD-PCAJ-1%2023718A.png)
+![Pocket Camera Maskrom](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MX%20J9805-M%20MX23C8004-12%20GBD-PCAJ-1%2023718A-preview.png)
 
 # Game Boy system reset
-Unknown game - Chip model: **Mitsumi MM1026** [High resolution here]()
+Unknown game - Chip model: **Mitsumi MM1026** [High resolution here](https://drive.google.com/file/d/1rVmwP0wnM0uuMyvdNmUqNdVYYWh3Sr4V/view?usp=sharing)
 
 ![Mitsumi MM1026](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Mitsumi%20MM1026-preview.png)
