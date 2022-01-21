@@ -10,7 +10,7 @@ I definitely do not recommend doing the process if you are not a skilled chemist
 
 Images were taken with a magnification of x250 or x500 (depending on the total surface of the chip). Higher magnifications of some zones can be obtained on request (dies are still stored by the author).
 
-# Game Boy MBC1-B mapper
+# Game Boy MBC1 mapper
 Unknown game - Chip marking: **DMG MBC1-B Nintendo P 2°94** [High resolution here](https://drive.google.com/file/d/11IMe75MVlMv_imL12D-UjlCwxDRTgbdM/view?usp=sharing)
 
 ![DMG MBC1-B](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/DMG%20MBC1-B%20Nintendo%20P%202%C2%B094-preview.png)
