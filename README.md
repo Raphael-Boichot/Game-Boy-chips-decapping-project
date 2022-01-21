@@ -22,11 +22,11 @@ Unknown game - Chip marking: **MBC3 P-1 734U2E** [High resolution here](https://
 
 Unknown game - Chip marking: **MBC 3 A P-2 945U2E** [High resolution here]()
 
-![MBC 3 A P-2 945U2E]()
+![MBC 3 A P-2 945U2E](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MBC%203%20A%20P-2%20945U2E-preview.png)
 
 Unknown game - Chip marking: **MBC-3 A BU3632K 822 128** [High resolution here]()
 
-![MBC-3 A BU3632K 822 128]()
+![MBC-3 A BU3632K 822 128](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MBC-3%20A%20BU3632K%20822%20128-preview.png)
 
 # Game Boy Camera MAC-GBD mapper
 Camera CE10251329, PCB revision 11 - Chip marking: **MAC-GBD Nintendo 9815 SA** [High resolution here](https://drive.google.com/file/d/1fUm43i4zzt71fiRKpbipy4eYC-yVmNwh/view?usp=sharing)
@@ -52,4 +52,4 @@ Camera PC10449615, PCB revision 01 - Chip marking: **MX J9805-M MX23C8004-12 GBD
 # Game Boy system reset
 Unknown game - Chip model: **Mitsumi MM1026** [High resolution here]()
 
-![Mitsumi MM1026]()
+![Mitsumi MM1026](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Mitsumi%20MM1026-preview.png)
