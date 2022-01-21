@@ -32,6 +32,7 @@ Unknown game - Chip marking: **MBC-3 A BU3632K 822 128** [High resolution here](
 Camera CE10251329, PCB revision 11 - Chip marking: **MAC-GBD Nintendo 9815 SA** [High resolution here](https://drive.google.com/file/d/1fUm43i4zzt71fiRKpbipy4eYC-yVmNwh/view?usp=sharing)
 
 ![MAC-GBD](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MAC-GBD%20Nintendo%209815%20SA-preview.png)
+
 This chip was literally overcooked in nitro-chromic bath and suffered severe corrosion of metal pads.
 
 # Game Boy Camera Mitsubishi M64282FP
