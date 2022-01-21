@@ -4,9 +4,9 @@
 
 **Please credit, these images are original.**
 
-The silicon dies were extracted from epoxy matrix by dipping chips in 70% nitric acid heated at 200-250°C until no red fumes degases from the beaker. The mineral carbon residuals were possibly removed with rapid bath in nitro-chromic acid at 200-250°C (not mandatory, very aggressive mixture). After rincing with lot of deionized water, dies were finally gently cleaned with isopropanol and a cotton bud to remove any dust and residue before imaging with professional equipment.
+The silicon dies were extracted from epoxy matrix by dipping chips in 70% nitric acid heated at 200-250°C until no red fumes degases from the beaker. The mineral carbon residuals were removed with 1-2 minutes treatment in ultrasonic bath. After rincing with lot of deionized water, dies were finally gently cleaned with isopropanol and a cotton bud to remove any dust and residue before imaging with professional equipment.
 
-I definitely do not recommend doing the process if you are not a skilled chemist (or Furrtek). You will probably need some safety equipment (fumehood and individual protection against strong acids). Chromic acid derivatives are highly carcinogenic/environmentally unfriendly/nasty and any residual must be disposed in hazardous chemical waste containers. Doing the process bare hand in a backyard with a cooking plate is still a possible option if you like the thrill of danger. Depending on your country, just attempting to buy 70% nitric acid will introduce you to nice government databases too.
+I definitely do not recommend doing the process if you are not a skilled chemist (or Furrtek). You will probably need some safety equipment (fumehood and individual protection against strong acids). Doing the process bare hand in a backyard with a cooking plate is still a possible option if you like the thrill of danger. Depending on your country, just attempting to buy 70% nitric acid will introduce you into interesting government databases too.
 
 Images were taken with a magnification of x250 or x500 (depending on the total surface of the chip). Higher magnifications of some zones can be obtained on request (dies are still stored by the author).
 
@@ -49,7 +49,7 @@ Camera PC10449615, PCB revision 01 - Chip marking: **MX J9805-M MX23C8004-12 GBD
 
 ![Pocket Camera Maskrom](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MX%20J9805-M%20MX23C8004-12%20GBD-PCAJ-1%2023718A-preview.png)
 
-# Game Boy system reset
+# Game Boy system reset chips
 Unknown game - Chip model: **Mitsumi MM1026** [High resolution here](https://drive.google.com/file/d/1rVmwP0wnM0uuMyvdNmUqNdVYYWh3Sr4V/view?usp=sharing)
 
 ![Mitsumi MM1026](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Mitsumi%20MM1026-preview.png)
