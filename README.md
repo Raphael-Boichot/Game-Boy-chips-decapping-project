@@ -15,10 +15,18 @@ Unknown game - Chip marking: **DMG MBC1-B Nintendo P 2°94** [High resolution he
 
 ![DMG MBC1-B](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/DMG%20MBC1-B%20Nintendo%20P%202%C2%B094-preview.png)
 
-# Game Boy MBC3 mapper
+# Game Boy MBC3 mappers
 Unknown game - Chip marking: **MBC3 P-1 734U2E** [High resolution here](https://drive.google.com/file/d/1aDTHwyut4xei_zgxTdFrbyyLH9tH_sX4/view?usp=sharing)
 
-![DMG MBC3](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MBC3%20P-1%20734U2E-preview.png)
+![MBC3 P-1 734U2E](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MBC3%20P-1%20734U2E-preview.png)
+
+Unknown game - Chip marking: **MBC 3 A P-2 945U2E** [High resolution here]()
+
+![MBC 3 A P-2 945U2E]()
+
+Unknown game - Chip marking: **MBC-3 A BU3632K 822 128** [High resolution here]()
+
+![MBC-3 A BU3632K 822 128]()
 
 # Game Boy Camera MAC-GBD mapper
 Camera CE10251329, PCB revision 11 - Chip marking: **MAC-GBD Nintendo 9815 SA** [High resolution here](https://drive.google.com/file/d/1fUm43i4zzt71fiRKpbipy4eYC-yVmNwh/view?usp=sharing)
@@ -39,3 +47,8 @@ Detail of ligth sensors, pixels are arranged in 5+123 lines, 64x2 rows. The 5 fi
 Camera PC10449615, PCB revision 01 - Chip marking: **MX J9805-M MX23C8004-12 GBD-PCAJ-1 23718A** [High resolution here](https://drive.google.com/file/d/1xGPd-S2JqzOhwf5aPOPGGmLtQ0v0OHIU/view?usp=sharing)
 
 ![Pocket Camera Maskrom](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MX%20J9805-M%20MX23C8004-12%20GBD-PCAJ-1%2023718A.png)
+
+# Game Boy system reset
+Unknown game - Chip model: **Mitsumi MM1026** [High resolution here]()
+
+![Mitsumi MM1026]()
