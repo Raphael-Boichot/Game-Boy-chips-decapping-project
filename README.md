@@ -6,7 +6,7 @@
 
 The silicon dies were extracted from epoxy matrix by dipping chips in 70% nitric acid heated at 200-250°C until no red fumes degases from the beaker. The black residuals were removed with 1-2 minutes treatment in water with ultrasonic bath. After rincing with lot of deionized water, dies were finally gently cleaned with isopropanol and a cotton bud to remove any dust and residue before imaging with professional equipment.
 
-I definitely do not recommend doing the process if you are not a skilled chemist (or Furrtek). You will probably need some safety equipment (fumehood and individual protection against strong acids). Doing the process bare hand in a backyard with a cooking plate is still a possible option if you like the thrill of danger. Depending on which happy democraty you belong to, just attempting to buy 70% nitric acid will introduce you into some interesting government databases.
+I definitely do not recommend doing the process if you are not a skilled chemist (or [Furrtek](https://github.com/furrtek)). You will probably need some safety equipment (fumehood and individual protection against strong acids). Doing the process bare hand in a backyard with a cooking plate is still a possible option if you like the thrill of danger. Depending on which happy democraty you belong to, just attempting to buy 70% nitric acid will introduce you into some interesting government databases.
 
 Images were taken with a magnification of x250 or x500 (depending on the total surface of the chip). Higher magnifications of some zones can be obtained on request (dies are still stored by the author).
 
