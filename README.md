@@ -28,6 +28,15 @@ Unknown game - Chip marking: **MBC-3 A BU3632K 822 128** [High resolution here](
 
 ![MBC-3 A BU3632K 822 128](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MBC-3%20A%20BU3632K%20822%20128-preview.png)
 
+Unknown game - Chip marking: **MBC3 B P-2 044U2E** [High resolution here](https://drive.google.com/file/d/1QRxZgFvdHOmijOCLsmWseviNGLI8Do6J/view?usp=sharing)
+
+![MBC3 B P-2 044U2E](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MBC3%20B%20P-2%20044U2E-preview.png)
+
+# Game Boy MBC7 mapper
+Unknown game - Chip marking: **MBC-7 BU3667KS 035 128** [High resolution here](https://drive.google.com/file/d/1crpsS7eNjSbeESiP8WTbkyCDwRE_X5oa/view?usp=sharing)
+
+![MBC-7 BU3667KS 035 128](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MBC-7%20BU3667KS%20035%20128-preview.png)
+
 # Game Boy Camera MAC-GBD mapper
 Camera CE10251329, PCB revision 11 - Chip marking: **MAC-GBD Nintendo 9815 SA** [High resolution here](https://drive.google.com/file/d/1fUm43i4zzt71fiRKpbipy4eYC-yVmNwh/view?usp=sharing)
 
