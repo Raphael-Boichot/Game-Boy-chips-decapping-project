@@ -2,7 +2,7 @@
 
 **A database of microscopic images of decapped (or not) chips from Game Boy cartridges and some Chinese bootlegs.**
 
-**Please credit authors. Decapping and images made by [Raphaël BOICHOT](https://github.com/Raphael-Boichot), most of the chips donated by [Dorian](https://github.com/dori4n), others from my own collection.**
+**Decapping and images made by [Raphaël BOICHOT](https://github.com/Raphael-Boichot), most of the chips donated by [Dorian](https://github.com/dori4n), others from my own collection. Please credit authors.**
 
 The silicon dies were extracted from epoxy matrix by dipping chips in 70% nitric acid heated with a hotplate set at 200-250°C until no red fumes degases from the beaker. The black residuals were removed with 1-2 minutes treatment in water with ultrasonic bath. After rincing with lot of deionized water, dies were finally gently cleaned with isopropanol and a cotton bud to remove any dust and residue before imaging with professional equipment.
 
