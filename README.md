@@ -4,7 +4,7 @@
 
 **Decapping and images made by [Raphaël BOICHOT](https://github.com/Raphael-Boichot), most of the chips donated by [Dorian](https://github.com/dori4n), others from my own collection. Please credit authors.**
 
-The silicon dies were extracted from epoxy matrix by dipping chips in 70% nitric acid heated with a hotplate set at 200-250°C until no red fumes degases from the beaker. The black residuals were removed with 1-2 minutes treatment in water with ultrasonic bath. After rincing with lot of deionized water, dies were finally gently cleaned with isopropanol and a cotton bud to remove any dust and residue before imaging with professional equipment.
+The silicon dies were extracted from epoxy matrix by dipping chips in boiling 70% nitric acid until no red fumes degases from the beaker. The black residuals at the end of reaction were removed with 1-2 minutes treatment in water with ultrasonic bath. After rincing with lot of deionized water, dies were finally gently cleaned with isopropanol and a cotton bud to remove any dust and residue before imaging with professional equipment.
 
 I definitely do not recommend doing the process if you are not a skilled chemist (or a skilled [Furrtek](https://github.com/furrtek)). You will probably need some safety equipment (fumehood and individual protection against strong acids). Doing the process bare hand in a backyard with a cooking plate is still a possible option if you like the thrill of danger. Also, depending on which happy democraty you belong to, just attempting to buy 70% nitric acid will introduce you into some interesting government databases.
 
