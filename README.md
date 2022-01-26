@@ -1,6 +1,6 @@
 # Game-Boy-chips-decapping-project
 
-**A database of microscopic images of decapped (or not) chips from Game Boy cartridges.**
+**A database of microscopic images of decapped (or not) chips from Game Boy cartridges and some Chinese bootlegs.**
 
 **Please credit authors. Decapping and images made by [Raphaël BOICHOT](https://github.com/Raphael-Boichot), chips donated by [Dorian](https://github.com/dori4n)**
 
