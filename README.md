@@ -32,6 +32,11 @@ Unknown game - Chip marking: **MBC3 B P-2 044U2E** [High resolution here](https:
 
 ![MBC3 B P-2 044U2E](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MBC3%20B%20P-2%20044U2E-preview.png)
 
+# Game Boy MBC30 mapper
+Unknown game - Chip marking: **MBC30 P 048U2M** [High resolution here](https://drive.google.com/file/d/1uBgJFp5zRNSwiTJPn4YXsPm9jtddF5L0/view?usp=sharing)
+
+![MBC30 P 048U2M](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MBC30%20P%20048U2M-preview.png)
+
 # Game Boy MBC7 mapper
 Unknown game - Chip marking: **MBC-7 BU3667KS 035 128** [High resolution here](https://drive.google.com/file/d/1crpsS7eNjSbeESiP8WTbkyCDwRE_X5oa/view?usp=sharing)
 
@@ -43,6 +48,11 @@ Camera CE10251329, PCB revision 11 - Chip marking: **MAC-GBD Nintendo 9815 SA** 
 ![MAC-GBD](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MAC-GBD%20Nintendo%209815%20SA-preview.png)
 
 This chip was literally overcooked in nitro-chromic bath and suffered severe corrosion of metal pads.
+
+# Mapper from SD007_48BALL_64M bootleg catridge
+Silicon dye in epoxy glob, directly soldered to the PCB [High resolution here](https://drive.google.com/file/d/1n5LEmbzellyvb24gj-uZ_xno30BZDt9J/view?usp=sharing)
+
+![SD007_48BALL_64M](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/SD007_48BALL_64M%20mapper-preview.png)
 
 # Game Boy Camera Mitsubishi M64282FP
 Camera CE10251329, sensor board revision 1 - [High resolution here](https://drive.google.com/file/d/1t0iczgT00NVYwDEGJ-6-9WYSS4gzTDif/view?usp=sharing)
