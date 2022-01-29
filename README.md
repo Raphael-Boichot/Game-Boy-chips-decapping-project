@@ -59,10 +59,10 @@ Camera PC10449615, PCB revision 01 - Chip marking: **MX J9805-M MX23C8004-12 GBD
 ![Pocket Camera Maskrom](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MX%20J9805-M%20MX23C8004-12%20GBD-PCAJ-1%2023718A-preview.png)
 
 # Game Boy system reset chips
-Unknown game - Chip model: **Mitsumi MM1026**, gold pas in red in the preview [High resolution here](https://drive.google.com/file/d/1rVmwP0wnM0uuMyvdNmUqNdVYYWh3Sr4V/view?usp=sharing)
+Unknown game - Chip model: **Mitsumi MM1026**, gold pads in red in the preview [High resolution here](https://drive.google.com/file/d/1rVmwP0wnM0uuMyvdNmUqNdVYYWh3Sr4V/view?usp=sharing)
 
 ![Mitsumi MM1026](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Mitsumi%20MM1026-preview_annoted.png)
 
-Unknown game - Chip model: **Mitsumi MM1134**, gold pas in red in the preview [High resolution here](https://drive.google.com/file/d/1AHGJ0PBbRakLn1aH7mnhxx491KSPDB8-/view?usp=sharing)
+Unknown game - Chip model: **Mitsumi MM1134**, gold pads in red in the preview [High resolution here](https://drive.google.com/file/d/1AHGJ0PBbRakLn1aH7mnhxx491KSPDB8-/view?usp=sharing)
 
 ![Mitsumi MM1134](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Mitsumi%20MM1134-preview_annoted.png)
