@@ -13,66 +13,87 @@ Images were taken with a magnification of x250 or x500 (depending on the total s
 # Game Boy MBC1 mapper
 Unknown game - Chip marking: **DMG MBC1-B Nintendo P 2°94** [High resolution here](https://drive.google.com/file/d/11IMe75MVlMv_imL12D-UjlCwxDRTgbdM/view?usp=sharing)
 
-![DMG MBC1-B](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/DMG%20MBC1-B%20Nintendo%20P%202%C2%B094-preview.png)
+![DMG MBC1-B](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/DMG%20MBC1-B%20Nintendo%20P%202%C2%B094-preview.png)
 
 # Game Boy MBC3 mappers
 Unknown game - Chip marking: **MBC3 P-1 734U2E** [High resolution here](https://drive.google.com/file/d/1aDTHwyut4xei_zgxTdFrbyyLH9tH_sX4/view?usp=sharing)
 
-![MBC3 P-1 734U2E](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MBC3%20P-1%20734U2E-preview.png)
+![MBC3 P-1 734U2E](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC3%20P-1%20734U2E-preview.png)
 
 Unknown game - Chip marking: **MBC 3 A P-2 945U2E** [High resolution here](https://drive.google.com/file/d/12fmrYQCoV1VyUdKG_TbIVRGtba_tC930/view?usp=sharing)
 
-![MBC 3 A P-2 945U2E](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MBC%203%20A%20P-2%20945U2E-preview.png)
+![MBC 3 A P-2 945U2E](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC%203%20A%20P-2%20945U2E-preview.png)
 
 Unknown game - Chip marking: **MBC-3 A BU3632K 822 128** [High resolution here](https://drive.google.com/file/d/1lBIRyb209nLF1f5kokW9P1FRXQjIxA7J/view?usp=sharing)
 
-![MBC-3 A BU3632K 822 128](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MBC-3%20A%20BU3632K%20822%20128-preview.png)
+![MBC-3 A BU3632K 822 128](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC-3%20A%20BU3632K%20822%20128-preview.png)
 
 Unknown game - Chip marking: **MBC3 B P-2 044U2E** [High resolution here](https://drive.google.com/file/d/1QRxZgFvdHOmijOCLsmWseviNGLI8Do6J/view?usp=sharing)
 
-![MBC3 B P-2 044U2E](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MBC3%20B%20P-2%20044U2E-preview.png)
+![MBC3 B P-2 044U2E](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC3%20B%20P-2%20044U2E-preview.png)
 
 # Game Boy MBC30 mapper
 Unknown game - Chip marking: **MBC30 P 048U2M** [High resolution here](https://drive.google.com/file/d/1uBgJFp5zRNSwiTJPn4YXsPm9jtddF5L0/view?usp=sharing)
 
-![MBC30 P 048U2M](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MBC30%20P%20048U2M-preview.png)
+![MBC30 P 048U2M](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC30%20P%20048U2M-preview.png)
 
 # Game Boy MBC7 mapper
 Unknown game - Chip marking: **MBC-7 BU3667KS 035 128** [High resolution here](https://drive.google.com/file/d/1crpsS7eNjSbeESiP8WTbkyCDwRE_X5oa/view?usp=sharing)
 
-![MBC-7 BU3667KS 035 128](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MBC-7%20BU3667KS%20035%20128-preview.png)
+![MBC-7 BU3667KS 035 128](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC-7%20BU3667KS%20035%20128-preview.png)
 
 # Game Boy Camera MAC-GBD mapper
 Camera CE10251329, PCB revision 11 - Chip marking: **MAC-GBD Nintendo 9815 SA** [High resolution here](https://drive.google.com/file/d/1fUm43i4zzt71fiRKpbipy4eYC-yVmNwh/view?usp=sharing)
 
-![MAC-GBD](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MAC-GBD%20Nintendo%209815%20SA-preview.png)
+![MAC-GBD](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MAC-GBD%20Nintendo%209815%20SA-preview.png)
 
 This chip was literally overcooked in nitro-chromic bath and suffered severe corrosion of metal pads.
 
 # Mapper from SD007_48BALL_64M bootleg catridge
 Silicon dye in epoxy glob, directly soldered to the PCB [High resolution here](https://drive.google.com/file/d/1n5LEmbzellyvb24gj-uZ_xno30BZDt9J/view?usp=sharing)
 
-![SD007_48BALL_64M](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/SD007_48BALL_64M%20mapper-preview.png)
+![SD007_48BALL_64M](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/SD007_48BALL_64M%20mapper-preview.png)
 
 # Game Boy Camera Mitsubishi M64282FP
 Camera CE10251329, sensor board revision 1 - [High resolution here](https://drive.google.com/file/d/1t0iczgT00NVYwDEGJ-6-9WYSS4gzTDif/view?usp=sharing)
 
-![Game Boy Camera CMOS](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Mitsubishi%20M64282FP-preview.png)
+![Game Boy Camera CMOS](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/Mitsubishi%20M64282FP-preview.png)
 
 Detail of ligth sensors, pixels are arranged in 5+123 lines, 64x2 rows. The 5 first lines of pixels are adressable but return a blank signal (unknown function). The effective image resolution is 128x123 pixels.
 
-![Game Boy Camera CMOS detail](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Mitsubishi%20M64282FP_detail%20of%20light%20sensors.png)
+![Game Boy Camera CMOS detail](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/Mitsubishi%20M64282FP_detail%20of%20light%20sensors.png)
 
 # Pocket Camera 1 MB maskrom
 Camera PC10449615, PCB revision 01 - Chip marking: **MX J9805-M MX23C8004-12 GBD-PCAJ-1 23718A** [High resolution here](https://drive.google.com/file/d/1xGPd-S2JqzOhwf5aPOPGGmLtQ0v0OHIU/view?usp=sharing)
 
-![Pocket Camera Maskrom](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/MX%20J9805-M%20MX23C8004-12%20GBD-PCAJ-1%2023718A-preview.png)
+![Pocket Camera Maskrom](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MX%20J9805-M%20MX23C8004-12%20GBD-PCAJ-1%2023718A-preview.png)
 
 # Game Boy system reset chips
 Unknown game - Chip model: **Mitsumi MM1026**, gold pads in red in the preview [High resolution here](https://drive.google.com/file/d/1rVmwP0wnM0uuMyvdNmUqNdVYYWh3Sr4V/view?usp=sharing)
 
-![Mitsumi MM1026](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Mitsumi%20MM1026-preview_annoted.png)
+![Mitsumi MM1026](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/Mitsumi%20MM1026-preview_annoted.png)
 
 Unknown game - Chip model: **Mitsumi MM1134**, gold pads in red in the preview [High resolution here](https://drive.google.com/file/d/1AHGJ0PBbRakLn1aH7mnhxx491KSPDB8-/view?usp=sharing)
 
-![Mitsumi MM1134](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Mitsumi%20MM1134-preview_annoted.png)
+![Mitsumi MM1134](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/Mitsumi%20MM1134-preview_annoted.png)
+
+# Chips to come
+Camera PC10449615, PCB revision 01, Sharp 1MB SRAM - Chip marking: **52CV1000SF85LL SHARP JAPAN 9752 3 0A** [High resolution here]()
+
+![52CV1000SF85LL SHARP JAPAN 9752 3 0A]()
+
+Unknown game - Chip model: **Rohm BA6129AF**, Chip marking: **6129A 7B30** [High resolution here]()
+
+![Rohm BA6129AF]()
+
+Unknown game - Chip model: **Rohm BA6735**, Chip marking: **6735 9B24** [High resolution here]()
+
+![Rohm BA6735]()
+
+Unknown game - Chip marking: **MBC-5 BU3650K 246 H94** [High resolution here]()
+
+![MBC-5 BU3650K 246 H94]()
+
+Unknown game - Chip marking: **MBC5 P 042U2M** [High resolution here]()
+
+![MBC5 P 042U2M]()
