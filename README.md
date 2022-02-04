@@ -37,6 +37,16 @@ Unknown game - Chip marking: **MBC30 P 048U2M** [High resolution here](https://d
 
 ![MBC30 P 048U2M](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC30%20P%20048U2M-preview.png)
 
+# Game Boy MBC5 mappers
+
+Unknown game - Chip marking: **MBC-5 BU3650K 246 H94** [High resolution here]()
+
+![MBC-5 BU3650K 246 H94](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC-5%20BU3650K%20246%20H94-preview.png)
+
+Unknown game - Chip marking: **MBC5 P 042U2M** [High resolution here]()
+
+![MBC5 P 042U2M](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC5%20P%20042U2M-preview.png)
+
 # Game Boy MBC7 mapper
 Unknown game - Chip marking: **MBC-7 BU3667KS 035 128** [High resolution here](https://drive.google.com/file/d/1crpsS7eNjSbeESiP8WTbkyCDwRE_X5oa/view?usp=sharing)
 
@@ -68,6 +78,11 @@ Camera PC10449615, PCB revision 01 - Chip marking: **MX J9805-M MX23C8004-12 GBD
 
 ![Pocket Camera Maskrom](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MX%20J9805-M%20MX23C8004-12%20GBD-PCAJ-1%2023718A-preview.png)
 
+# Pocket Camera 1 Mb sram
+Camera PC10449615, PCB revision 01, Sharp 1Mb SRAM - Chip marking: **52CV1000SF85LL SHARP JAPAN 9752 3 0A** [High resolution here]()
+
+![52CV1000SF85LL SHARP JAPAN 9752 3 0A](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/52CV1000SF85LL%20SHARP%20JAPAN%209752%203%200A-preview.png)
+
 # Game Boy system reset chips
 Unknown game - Chip model: **Mitsumi MM1026**, gold pads in red in the preview [High resolution here](https://drive.google.com/file/d/1rVmwP0wnM0uuMyvdNmUqNdVYYWh3Sr4V/view?usp=sharing)
 
@@ -77,23 +92,17 @@ Unknown game - Chip model: **Mitsumi MM1134**, gold pads in red in the preview [
 
 ![Mitsumi MM1134](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/Mitsumi%20MM1134-preview_annoted.png)
 
-# Chips to come
-Camera PC10449615, PCB revision 01, Sharp 1MB SRAM - Chip marking: **52CV1000SF85LL SHARP JAPAN 9752 3 0A** [High resolution here]()
-
-![52CV1000SF85LL SHARP JAPAN 9752 3 0A]()
-
 Unknown game - Chip model: **Rohm BA6129AF**, Chip marking: **6129A 7B30** [High resolution here]()
 
-![Rohm BA6129AF]()
+![Rohm BA6129AF](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/ROHM%20BA6129AF-preview.png)
 
 Unknown game - Chip model: **Rohm BA6735**, Chip marking: **6735 9B24** [High resolution here]()
 
-![Rohm BA6735]()
+![Rohm BA6735](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/ROHM%20BA6735-preview.png)
 
-Unknown game - Chip marking: **MBC-5 BU3650K 246 H94** [High resolution here]()
 
-![MBC-5 BU3650K 246 H94]()
 
-Unknown game - Chip marking: **MBC5 P 042U2M** [High resolution here]()
 
-![MBC5 P 042U2M]()
+
+
+
