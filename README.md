@@ -24,13 +24,13 @@ Unknown game - Chip marking: **MBC 3 A P-2 945U2E** [High resolution here](https
 
 ![MBC 3 A P-2 945U2E](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC%203%20A%20P-2%20945U2E-preview.png)
 
-Unknown game - Chip marking: **MBC-3 A BU3632K 822 128** [High resolution here](https://drive.google.com/file/d/1lBIRyb209nLF1f5kokW9P1FRXQjIxA7J/view?usp=sharing)
-
-![MBC-3 A BU3632K 822 128](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC-3%20A%20BU3632K%20822%20128-preview.png)
-
 Unknown game - Chip marking: **MBC3 B P-2 044U2E** [High resolution here](https://drive.google.com/file/d/1QRxZgFvdHOmijOCLsmWseviNGLI8Do6J/view?usp=sharing)
 
 ![MBC3 B P-2 044U2E](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC3%20B%20P-2%20044U2E-preview.png)
+
+Unknown game - Chip marking: **MBC-3 A BU3632K 822 128** [High resolution here](https://drive.google.com/file/d/1lBIRyb209nLF1f5kokW9P1FRXQjIxA7J/view?usp=sharing)
+
+![MBC-3 A BU3632K 822 128](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC-3%20A%20BU3632K%20822%20128-preview.png)
 
 # Game Boy MBC30 mapper
 Unknown game - Chip marking: **MBC30 P 048U2M** [High resolution here](https://drive.google.com/file/d/1uBgJFp5zRNSwiTJPn4YXsPm9jtddF5L0/view?usp=sharing)
@@ -38,14 +38,13 @@ Unknown game - Chip marking: **MBC30 P 048U2M** [High resolution here](https://d
 ![MBC30 P 048U2M](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC30%20P%20048U2M-preview.png)
 
 # Game Boy MBC5 mappers
+Unknown game - Chip marking: **MBC5 P 042U2M** [High resolution here](https://drive.google.com/file/d/14FDw-eAvsf2L0ukMvjJDmuyO6rBKxBYB/view?usp=sharing)
+
+![MBC5 P 042U2M](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC5%20P%20042U2M-preview.png)
 
 Unknown game - Chip marking: **MBC-5 BU3650K 246 H94** [High resolution here](https://drive.google.com/file/d/14B0vrZwHkuiCvUKfV5LXoiFjdeoYK7sJ/view?usp=sharing)
 
 ![MBC-5 BU3650K 246 H94](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC-5%20BU3650K%20246%20H94-preview.png)
-
-Unknown game - Chip marking: **MBC5 P 042U2M** [High resolution here](https://drive.google.com/file/d/14FDw-eAvsf2L0ukMvjJDmuyO6rBKxBYB/view?usp=sharing)
-
-![MBC5 P 042U2M](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC5%20P%20042U2M-preview.png)
 
 # Game Boy MBC7 mapper
 Unknown game - Chip marking: **MBC-7 BU3667KS 035 128** [High resolution here](https://drive.google.com/file/d/1crpsS7eNjSbeESiP8WTbkyCDwRE_X5oa/view?usp=sharing)
