@@ -39,13 +39,13 @@ Unknown game - Chip marking: **MBC30 P 048U2M** [High resolution here](https://d
 
 # Game Boy MBC5 mappers
 
-Unknown game - Chip marking: **MBC-5 BU3650K 246 H94** [High resolution here]()
+Unknown game - Chip marking: **MBC-5 BU3650K 246 H94** [High resolution here](https://drive.google.com/file/d/14B0vrZwHkuiCvUKfV5LXoiFjdeoYK7sJ/view?usp=sharing)
 
-![MBC-5 BU3650K 246 H94]()
+![MBC-5 BU3650K 246 H94](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC-5%20BU3650K%20246%20H94-preview.png)
 
-Unknown game - Chip marking: **MBC5 P 042U2M** [High resolution here]()
+Unknown game - Chip marking: **MBC5 P 042U2M** [High resolution here](https://drive.google.com/file/d/14FDw-eAvsf2L0ukMvjJDmuyO6rBKxBYB/view?usp=sharing)
 
-![MBC5 P 042U2M]()
+![MBC5 P 042U2M](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC5%20P%20042U2M-preview.png)
 
 # Game Boy MBC7 mapper
 Unknown game - Chip marking: **MBC-7 BU3667KS 035 128** [High resolution here](https://drive.google.com/file/d/1crpsS7eNjSbeESiP8WTbkyCDwRE_X5oa/view?usp=sharing)
@@ -92,13 +92,13 @@ Unknown game - Chip model: **Mitsumi MM1134**, gold pads in red in the preview [
 
 ![Mitsumi MM1134](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/Mitsumi%20MM1134-preview_annoted.png)
 
-Unknown game - Chip model: **Rohm BA6129AF**, Chip marking: **6129A 7B30** [High resolution here]()
+Unknown game - Chip model: **Rohm BA6129AF**, Chip marking: **6129A 7B30** [High resolution here](https://drive.google.com/file/d/1S55S3_HHgjI5ZH2YSWqfx6di5cer_K4q/view?usp=sharing)
 
-![Rohm BA6129AF]()
+![Rohm BA6129AF](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/ROHM%20BA6129AF-preview.png)
 
-Unknown game - Chip model: **Rohm BA6735**, Chip marking: **6735 9B24** [High resolution here]()
+Unknown game - Chip model: **Rohm BA6735**, Chip marking: **6735 9B24** [High resolution here](https://drive.google.com/file/d/1bIS2R12Bo1tWvuk6yniWBFyetblLvqvn/view?usp=sharing)
 
-![Rohm BA6735]()
+![Rohm BA6735](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/ROHM%20BA6735-preview.png)
 
 
 
