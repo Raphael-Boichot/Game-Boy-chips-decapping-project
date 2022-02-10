@@ -46,6 +46,10 @@ Unknown game - Manufacturer: **ROHM** - Chip marking: **MBC-5 BU3650K 246 H94** 
 
 ![MBC-5 BU3650K 246 H94](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC-5%20BU3650K%20246%20H94-preview.png)
 
+Game: **DivaStarz** - Manufacturer: **Texas Instruments** - Chip marking: **1BA2XRT MBC5 2417** [High resolution here](https://drive.google.com/file/d/14NGuPw7ceNrqgSyg41mwO4DVjiP5c8dG/view?usp=sharing)
+
+![1BA2XRT MBC5 2417](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/1BA2XRT%20MBC5%202417-preview.png)
+
 # Game Boy MBC7 mapper
 Unknown game - Manufacturer: **ROHM** - Chip marking: **MBC-7 BU3667KS 035 128** [High resolution here](https://drive.google.com/file/d/1crpsS7eNjSbeESiP8WTbkyCDwRE_X5oa/view?usp=sharing)
 
