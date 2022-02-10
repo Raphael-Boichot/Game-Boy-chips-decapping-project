@@ -37,6 +37,14 @@ Unknown game - Unknown manufacturer - Chip marking: **MBC30 P 048U2M** [High res
 
 ![MBC30 P 048U2M](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC30%20P%20048U2M-preview.png)
 
+Unknown game - Manufacturer: **ROHM** - Chip marking: **MCB-30 BU3633AK 047 H82** [High resolution here](https://drive.google.com/file/d/1sTZ33nsk-kdmq1xjjTtnL5BWzZWOzXUn/view?usp=sharing)
+
+![MCB-30 BU3633AK 047 H82](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MCB-30%20BU3633AK%20047%20H82-preview.png)
+
+Detail  of the logic part of the MCB-30 BU3633AK 047 H82 [High resolution here](https://drive.google.com/file/d/1mDMNqzsP0NfQIHBENTzbyJDYXfWyoRzL/view?usp=sharing)
+
+![MCB-30 BU3633AK 047 H82](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MCB-30%20BU3633AK%20047%20H82-preview_2.png)
+
 # Game Boy MBC5 mappers
 Unknown game - Unknown manufacturer - Chip marking: **MBC5 P 042U2M** [High resolution here](https://drive.google.com/file/d/14FDw-eAvsf2L0ukMvjJDmuyO6rBKxBYB/view?usp=sharing)
 
