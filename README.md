@@ -84,12 +84,12 @@ Detail of ligth sensors, pixels are arranged in 5+123 lines, 64x2 rows. The 5 fi
 
 ![Game Boy Camera CMOS detail](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/Mitsubishi%20M64282FP_detail%20of%20light%20sensors.png)
 
-# Pocket Camera 1 MB maskrom
+# Pocket Camera 1 Mbytes maskrom
 Camera PC10449615, PCB revision 01 - Manufacturer: **Macronix** - Chip marking: **MX J9805-M MX23C8004-12 GBD-PCAJ-1 23718A** [High resolution here](https://drive.google.com/file/d/1jiTbQbAO0CLP6eZrTFgcgWZXoKBek40G/view?usp=sharing)
 
 ![Pocket Camera Maskrom](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MX%20J9805-M%20MX23C8004-12%20GBD-PCAJ-1%2023718A-preview.png)
 
-# Pocket Camera 1 Mb sram
+# Pocket Camera 128 kbytes sram
 Camera PC10449615, PCB revision 01 - Manufacturer: **Sharp/LG** - Chip marking: **52CV1000SF85LL SHARP JAPAN 9752 3 0A** [High resolution here](https://drive.google.com/file/d/165wjuTwJ_VMFnYcZ2iV-7jxmVmYcFwEk/view?usp=sharing)
 
 ![52CV1000SF85LL SHARP JAPAN 9752 3 0A](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/52CV1000SF85LL%20SHARP%20JAPAN%209752%203%200A-preview.png)
