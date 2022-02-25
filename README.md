@@ -10,7 +10,7 @@ I definitely do not recommend doing the process if you are not a skilled chemist
 
 Images were taken with a magnification of x250 or x500 (depending on the total surface of the chip). Higher magnifications of some zones can be obtained on request (dies are still stored by the author). 
 
-To complete this project, some interesting readings about the MBCs can be found [here](https://b13rg.github.io/Gameboy-MBC-Analysis/) as well as well documented list of mappers into the [Gekkio database](https://gbhwdb.gekkio.fi/cartridges/).
+To complete this project, some interesting readings about the MBCs can be found [here](https://b13rg.github.io/Gameboy-MBC-Analysis/), into the [Gekkio database](https://gbhwdb.gekkio.fi/cartridges/) and in the [gbdev wiki](https://gbdev.gg8.se/wiki/articles/Memory_Bank_Controllers).
 
 # Game Boy MBC1 mapper
 Unknown game - Unknown manufacturer - Chip marking: **DMG MBC1-B Nintendo P 2°94** [High resolution here](https://drive.google.com/file/d/11IMe75MVlMv_imL12D-UjlCwxDRTgbdM/view?usp=sharing)
