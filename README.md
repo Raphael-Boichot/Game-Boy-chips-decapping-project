@@ -17,6 +17,11 @@ Unknown game - Unknown manufacturer - Chip marking: **DMG MBC1-B Nintendo P 2°9
 
 ![DMG MBC1-B](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/DMG%20MBC1-B%20Nintendo%20P%202%C2%B094-preview.png)
 
+# Game Boy MBC2 mapper
+Game: **F1 Race** - Manufacturer: **Sharp** - Chip marking: **DMG MBC2A Nintendo S 9129 5 A** [High resolution here](https://drive.google.com/file/d/1ll6olV730b5k8AJxM8Lvsx3gO_6qZZ8h/view?usp=sharing)
+
+![DMG MBC2A Nintendo S 9129 5 A](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/DMG%20MBC2A%20Nintendo%20S%209129%205%20A-preview.png)
+
 # Game Boy MBC3 mappers
 Unknown game - Unknown manufacturer - Chip marking: **MBC3 P-1 734U2E** [High resolution here](https://drive.google.com/file/d/1aDTHwyut4xei_zgxTdFrbyyLH9tH_sX4/view?usp=sharing)
 
@@ -70,8 +75,6 @@ Camera CE10251329, PCB revision 11 - Unknown manufacturer - Chip marking: **MAC-
 
 ![MAC-GBD](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MAC-GBD%20Nintendo%209815%20SA-preview.png)
 
-This chip was literally overcooked in nitro-chromic bath and suffered severe corrosion of metal pads.
-
 # Mapper from SD007_48BALL_64M bootleg catridge
 SD007_48BALL_64M bootleg catridge - Unknown manufacturer - Silicon dye in epoxy glob, directly soldered to the PCB [High resolution here](https://drive.google.com/file/d/1n5LEmbzellyvb24gj-uZ_xno30BZDt9J/view?usp=sharing)
 
@@ -86,13 +89,18 @@ Detail of ligth sensors, pixels are arranged in 5+123 lines, 64x2 rows. The 5 fi
 
 ![Game Boy Camera CMOS detail](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/Mitsubishi%20M64282FP_detail%20of%20light%20sensors.png)
 
-# Pocket Camera 1 Mbytes maskrom
-Camera PC10449615, PCB revision 01 - Manufacturer: **Macronix** - Chip marking: **MX J9805-M MX23C8004-12 GBD-PCAJ-1 23718A** [High resolution here](https://drive.google.com/file/d/1jiTbQbAO0CLP6eZrTFgcgWZXoKBek40G/view?usp=sharing)
+# 128 kbytes maskrom
+Game: **F1 Race**, Manufacturer: **Sharp** - Chip marking: **DMG-F1A-1 S LH5308PS JAPAN C1 9134 E** [High resolution here](https://drive.google.com/file/d/1ErjOgwdYTaPGdeYimQ3nI81DNAbZSr6W/view?usp=sharing)
+
+![DMG-F1A-1 S LH5308PS JAPAN C1 9134 E](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/DMG-F1A-1%20S%20LH5308PS%20JAPAN%20C1%209134%20E-preview.png)
+
+# 1 Mbytes maskrom
+Game: **Pocket Camera PC10449615**, PCB revision 01 - Manufacturer: **Macronix** - Chip marking: **MX J9805-M MX23C8004-12 GBD-PCAJ-1 23718A** [High resolution here](https://drive.google.com/file/d/1jiTbQbAO0CLP6eZrTFgcgWZXoKBek40G/view?usp=sharing)
 
 ![Pocket Camera Maskrom](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MX%20J9805-M%20MX23C8004-12%20GBD-PCAJ-1%2023718A-preview.png)
 
-# Pocket Camera 128 kbytes sram
-Camera PC10449615, PCB revision 01 - Manufacturer: **Sharp/LG** - Chip marking: **52CV1000SF85LL SHARP JAPAN 9752 3 0A** [High resolution here](https://drive.google.com/file/d/165wjuTwJ_VMFnYcZ2iV-7jxmVmYcFwEk/view?usp=sharing)
+# 128 kbytes sram
+Game: **Pocket Camera PC10449615**, PCB revision 01 - Manufacturer: **Sharp/LG** - Chip marking: **52CV1000SF85LL SHARP JAPAN 9752 3 0A** [High resolution here](https://drive.google.com/file/d/165wjuTwJ_VMFnYcZ2iV-7jxmVmYcFwEk/view?usp=sharing)
 
 ![52CV1000SF85LL SHARP JAPAN 9752 3 0A](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/52CV1000SF85LL%20SHARP%20JAPAN%209752%203%200A-preview.png)
 
