@@ -71,7 +71,7 @@ Unknown game - Manufacturer: **ROHM** - Chip marking: **MBC-7 BU3667KS 035 128**
 ![MBC-7 BU3667KS 035 128](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MBC-7%20BU3667KS%20035%20128-preview.png)
 
 # Game Boy Camera MAC-GBD mapper
-Camera CE10251329, PCB revision 11 - Unknown manufacturer - Chip marking: **MAC-GBD Nintendo 9815 SA** [High resolution here](https://drive.google.com/file/d/1fUm43i4zzt71fiRKpbipy4eYC-yVmNwh/view?usp=sharing)
+Camera CE10251329, PCB revision 11 - Unknown manufacturer - Chip marking: **MAC-GBD Nintendo 9815 SA** [High resolution here](https://drive.google.com/file/d/1fUm43i4zzt71fiRKpbipy4eYC-yVmNwh/view?usp=sharing). The ADC part of the MAC-GBD is probably copied/inspired from a MAX153 as Mitsubishi refered to the MAX153 as a fast-enough converter for the M64282FP artificial retina.
 
 ![MAC-GBD](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MAC-GBD%20Nintendo%209815%20SA-preview.png)
 
