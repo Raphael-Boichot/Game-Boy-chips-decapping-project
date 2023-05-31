@@ -75,6 +75,10 @@ Camera CE10251329, PCB revision 11 - Unknown manufacturer - Chip marking: **MAC-
 
 ![MAC-GBD](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MAC-GBD%20Nintendo%209815%20SA-preview.png)
 
+Camera CE10022941, PCB revision 10 - Unknown manufacturer - Chip marking: **MAC-GBD Nintendo 9815 SB** [High resolution here](https://drive.google.com/file/d/1fUm43i4zzt71fiRKpbipy4eYC-yVmNwh/view?usp=sharing). The ADC part of the MAC-GBD is probably copied/inspired from a MAX153 as Mitsubishi refered to the MAX153 as a fast-enough converter for the M64282FP artificial retina.
+
+![MAC-GBD](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MAC-GBD%20Nintendo%209815%20SB-preview.png)
+
 # Mapper from SD007_48BALL_64M bootleg catridge
 SD007_48BALL_64M bootleg catridge - Unknown manufacturer - Silicon dye in epoxy glob, directly soldered to the PCB [High resolution here](https://drive.google.com/file/d/1n5LEmbzellyvb24gj-uZ_xno30BZDt9J/view?usp=sharing)
 
