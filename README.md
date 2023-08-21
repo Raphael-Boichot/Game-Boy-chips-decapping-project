@@ -8,7 +8,7 @@ The silicon dies were extracted from epoxy matrix by dipping chips in boiling 70
 
 I definitely do not recommend doing the process if you are not a skilled chemist (or a skilled [Furrtek](https://github.com/furrtek)). You will probably need some safety equipment (fumehood and individual protection against strong acids) but who cares. Doing the process bare hand in a backyard with a cooking plate is still a possible option if you like the thrill of danger. Also, depending on which happy democraty you belong to, just attempting to buy 70% nitric acid will introduce you into some embarrassing government databases.
 
-Images were taken with a magnification of x250 or x500 (depending on the total surface of the chip). Higher magnifications of some zones can be obtained on request (dies are still stored by the author). 
+Images were taken with a magnification of x250 to x1000 (depending on the total surface of the chip). Higher magnifications of some zones can be obtained on request (dies are still stored by the author). 
 
 To complete this project, some interesting readings about the MBCs can be found into the [Brendan's Website](https://b13rg.github.io/Gameboy-MBC-Analysis/), into the [Gekkio database](https://gbhwdb.gekkio.fi/cartridges/) and into the [gbdev wiki](https://gbdev.gg8.se/wiki/articles/Memory_Bank_Controllers).
 
