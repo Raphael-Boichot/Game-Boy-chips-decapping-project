@@ -22,6 +22,8 @@ Game: **F1 Race** - Manufacturer: **Sharp** - Chip marking: **DMG MBC2A Nintendo
 
 ![DMG MBC2A Nintendo S 9129 5 A](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/DMG%20MBC2A%20Nintendo%20S%209129%205%20A-preview.png)
 
+The MBC2 mapper is basically a MBC1 mapper with 512x4 bits of ram on the same chip, which is rather a weird choice.
+
 # Game Boy MBC3 mappers
 Unknown game - Unknown manufacturer - Chip marking: **MBC3 P-1 734U2E** [High resolution here](https://drive.google.com/file/d/1aDTHwyut4xei_zgxTdFrbyyLH9tH_sX4/view?usp=sharing)
 
@@ -94,7 +96,7 @@ Detail of ligth sensors, pixels are arranged in 5+123 lines, 64x2 rows. The 5 fi
 ![M64282FP CMOS detail](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/Mitsubishi%20M64282FP_detail%20of%20light%20sensors.png)
 
 # Mitsubishi M64283FP CMOS sensor
-Manufacturer: **Mitsubishi** - [High resolution here](https://drive.google.com/file/d/1iWyl2L_uUUIKef6FCX1JYUhLUcdR75x1/view?usp=sharing)
+Undisclosed origin, old new stock - Manufacturer: **Mitsubishi** - [High resolution here](https://drive.google.com/file/d/1iWyl2L_uUUIKef6FCX1JYUhLUcdR75x1/view?usp=sharing)
 
 ![M64283FP](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/Mitsubishi%20M64283FP-preview.png)
 
