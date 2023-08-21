@@ -85,13 +85,20 @@ SD007_48BALL_64M bootleg catridge - Unknown manufacturer - Silicon dye in epoxy 
 ![SD007_48BALL_64M](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/SD007_48BALL_64M%20mapper-preview.png)
 
 # Game Boy Camera Mitsubishi M64282FP
-Camera CE10251329, sensor board revision 1 - Manufacturer: **Mitsubishi** - [High resolution here](https://drive.google.com/file/d/1t0iczgT00NVYwDEGJ-6-9WYSS4gzTDif/view?usp=sharing)
+Camera CE10251329, sensor board revision 1 - Manufacturer: **Mitsubishi** - [High resolution here](https://drive.google.com/file/d/1iWyl2L_uUUIKef6FCX1JYUhLUcdR75x1/view?usp=sharing)
 
-![Game Boy Camera CMOS](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/Mitsubishi%20M64282FP-preview.png)
+![M64282FP](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/Mitsubishi%20M64282FP-preview.png)
 
 Detail of ligth sensors, pixels are arranged in 5+123 lines, 64x2 rows. The 5 first lines of pixels are adressable but physically masked (used for dark voltage reading). The effective image resolution is 128x123 pixels.
 
-![Game Boy Camera CMOS detail](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/Mitsubishi%20M64282FP_detail%20of%20light%20sensors.png)
+# Mitsubishi M64283FP
+Manufacturer: **Mitsubishi** - [High resolution here](https://drive.google.com/file/d/1t0iczgT00NVYwDEGJ-6-9WYSS4gzTDif/view?usp=sharing)
+
+![M64283FP](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/Mitsubishi%20M64283FP-preview.png)
+
+Detail of ligth sensors, pixels are arranged in 1+128+4 lines, 128 rows. The first and the 4 last lines of pixels are adressable but physically masked (used for dark voltage reading). The effective image resolution is 128x128 pixels.
+
+![M64283FP CMOS detail](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/Mitsubishi%20M64283FP_detail%20of%20light%20sensors.png)
 
 # 128 kbytes maskrom
 Game: **F1 Race**, Manufacturer: **Sharp** - Chip marking: **DMG-F1A-1 S LH5308PS JAPAN C1 9134 E** [High resolution here](https://drive.google.com/file/d/1ErjOgwdYTaPGdeYimQ3nI81DNAbZSr6W/view?usp=sharing)
