@@ -102,7 +102,7 @@ Detail of ligth sensors, pixels are arranged in 1+128+4 lines, 128 rows. The fir
 
 ![M64283FP CMOS detail](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/Mitsubishi%20M64283FP_detail%20of%20light%20sensors.png)
 
-I got this unobtainium sensor by someone who knows someone who knows someone at Mitsubishi. It can de dropped directly to a Game Boy Camera sensor board (the M64283FP is pin compatible with the M64282FP and the sensor area is the same). However, both sensors are not 100% register compatible so the image won't feature the crips aspect of image obtained with the regular sensor due to slighly different register tables. It works, that's all. 
+I got this unobtainium sensor by someone who knows someone who knows someone at Mitsubishi. It can de dropped directly to a Game Boy Camera sensor board (the M64283FP is pin compatible with the M64282FP and the sensor area is the same). However, both sensors are not 100% register compatible so the image won't feature the crisp aspect of pictures obtained with the regular sensor due to slighly different register tables. It works, that's all. 
 
 # 128 kbytes maskrom
 Game: **F1 Race**, Manufacturer: **Sharp** - Chip marking: **DMG-F1A-1 S LH5308PS JAPAN C1 9134 E** [High resolution here](https://drive.google.com/file/d/1ErjOgwdYTaPGdeYimQ3nI81DNAbZSr6W/view?usp=sharing)
