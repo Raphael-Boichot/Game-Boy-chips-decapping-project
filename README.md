@@ -85,7 +85,7 @@ SD007_48BALL_64M bootleg catridge - Unknown manufacturer - Silicon dye in epoxy 
 ![SD007_48BALL_64M](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/SD007_48BALL_64M%20mapper-preview.png)
 
 # Game Boy Camera Mitsubishi M64282FP
-Camera CE10251329, sensor board revision 1 - Manufacturer: **Mitsubishi** - [High resolution here](https://drive.google.com/file/d/1iWyl2L_uUUIKef6FCX1JYUhLUcdR75x1/view?usp=sharing)
+Camera CE10251329, sensor board revision 1 - Manufacturer: **Mitsubishi** - [High resolution here](https://drive.google.com/file/d/1t0iczgT00NVYwDEGJ-6-9WYSS4gzTDif/view?usp=sharing)
 
 ![M64282FP](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/Mitsubishi%20M64282FP-preview.png)
 
