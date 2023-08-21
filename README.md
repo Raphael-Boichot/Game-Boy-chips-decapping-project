@@ -94,7 +94,7 @@ Detail of ligth sensors, pixels are arranged in 5+123 lines, 64x2 rows. The 5 fi
 ![M64282FP CMOS detail](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/Mitsubishi%20M64282FP_detail%20of%20light%20sensors.png)
 
 # Mitsubishi M64283FP
-Manufacturer: **Mitsubishi** - [High resolution here](https://drive.google.com/file/d/1t0iczgT00NVYwDEGJ-6-9WYSS4gzTDif/view?usp=sharing)
+Manufacturer: **Mitsubishi** - [High resolution here](https://drive.google.com/file/d/1iWyl2L_uUUIKef6FCX1JYUhLUcdR75x1/view?usp=sharing)
 
 ![M64283FP](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/Mitsubishi%20M64283FP-preview.png)
 
