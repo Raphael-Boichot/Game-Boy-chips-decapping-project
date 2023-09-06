@@ -82,7 +82,7 @@ Camera CE10022941, PCB revision 10 - Unknown manufacturer - Chip marking: **MAC-
 ![MAC-GBD](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/MAC-GBD%20Nintendo%209815%20SB-preview.png)
 
 # Mapper from SD007_48BALL_64M bootleg catridge
-SD007_48BALL_64M bootleg catridge - Unknown manufacturer - Silicon dye in epoxy glob, directly soldered to the PCB [High resolution here](https://drive.google.com/file/d/1n5LEmbzellyvb24gj-uZ_xno30BZDt9J/view?usp=sharing)
+SD007_48BALL_64M bootleg catridge - Manufacturer: **Altera** - Silicon dye in epoxy glob, directly soldered to the PCB [High resolution here](https://drive.google.com/file/d/1n5LEmbzellyvb24gj-uZ_xno30BZDt9J/view?usp=sharing)
 
 ![SD007_48BALL_64M](https://github.com/Raphael-Boichot/Game-Boy-chips-decapping-project/blob/main/Previews/SD007_48BALL_64M%20mapper-preview.png)
 
