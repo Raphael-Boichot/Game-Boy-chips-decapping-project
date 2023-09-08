@@ -81,7 +81,7 @@ Camera CE10022941, PCB revision 10 - Unknown manufacturer - Chip marking: **MAC-
 
 ![MAC-GBD](Previews/MAC-GBD%20Nintendo%209815%20SB-preview.png)
 
-# Mapper from SD007_48BALL_64M bootleg cartridge
+# Mapper from SD007-48BALL-64M bootleg cartridge
 SD007-48BALL-64M bootleg cartridge - Manufacturer: **Altera** - Silicon dye in epoxy glob, directly soldered to the PCB [High resolution here](https://drive.google.com/file/d/1n5LEmbzellyvb24gj-uZ_xno30BZDt9J/view?usp=sharing)
 
 ![SD007_48BALL_64M](Previews/SD007_48BALL_64M%20mapper-preview.png)
