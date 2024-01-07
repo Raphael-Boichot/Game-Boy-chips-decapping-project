@@ -1,3 +1,5 @@
+**Note: this archive is no longer maintained since January 2024. Enjoy it as it is !**
+
 # Game-Boy-chips-decapping-project
 
 **A database of microscopic images of decapped (or not) chips from Game Boy cartridges, some Chinese bootlegs and other stuff more or less related to Game Boy.** Some images of [decapped GBA chips](GBA%20various%20chips) allowing their identification are also included.
