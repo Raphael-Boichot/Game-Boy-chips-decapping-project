@@ -1,5 +1,3 @@
-**Note: this archive is no longer maintained since January 2024. Enjoy it as it is !**
-
 # Game-Boy-chips-decapping-project
 
 **A database of microscopic images of decapped (or not) chips from Game Boy cartridges, some Chinese bootlegs and other stuff more or less related to Game Boy.** Some images of [decapped GBA chips](GBA%20various%20chips) allowing their identification are also included.
@@ -10,7 +8,7 @@ The silicon dies were extracted from epoxy matrix by dipping chips in boiling 70
 
 I definitely do not recommend doing the process if you are not a skilled chemist (or a skilled [Furrtek](https://github.com/furrtek)). You will probably need some safety equipment (fumehood and individual protection against strong acids) but who cares. Doing the process bare hand in a backyard with a cooking plate is still a possible option if you like the thrill of danger. Also, depending on which happy democraty you belong to, just attempting to buy 70% nitric acid will introduce you into some embarrassing government databases.
 
-Images were taken with a magnification of x250 to x1000 (depending on the total surface of the chip). Higher magnifications of some zones can be obtained on request (dies are still stored by the author). 
+Images were taken with a magnification of x250 to x1000 (depending on the total surface of the chip).
 
 To complete this project, some interesting readings about the MBCs can be found into the [Brendan's Website](https://b13rg.github.io/Gameboy-MBC-Analysis/), into the [Gekkio database](https://gbhwdb.gekkio.fi/cartridges/) and into the [gbdev wiki](https://gbdev.gg8.se/wiki/articles/Memory_Bank_Controllers).
 
@@ -79,7 +77,9 @@ Camera CE10251329, PCB revision 11 - Unknown manufacturer - Chip marking: **MAC-
 
 ![MAC-GBD](Previews/MAC-GBD%20Nintendo%209815%20SA-preview.png)
 
-Camera CE10022941, PCB revision 10 - Unknown manufacturer - Chip marking: **MAC-GBD Nintendo 9815 SB** [High resolution here](https://drive.google.com/file/d/1mlEA1vZDXtZYUza5Esf5D1dsyPu3-RjT/view?usp=share_link). The N.C. pin on the left side was probably intended to trigger the TADD pin of a M64283FP, variant of the M64282FP used with the camera. This pin is always high when camera is on and seems not connected to any logic. The current sensor does not need this extra trigger (the corresponding pin, TSW, is not connected on the M64282FP). The N.C. pin on the upper side is probably a RAM_CE1, seeing the proximity with RAM_CE2. Surprisingly, GND pins on the right side are mostly regular logic pins just set to ground whatever the manner. They may have been prepared/reserved for addressing bigger ram/rom.
+Camera CE10022941, PCB revision 10 - Unknown manufacturer - Chip marking: **MAC-GBD Nintendo 9815 SB** [High resolution here](https://drive.google.com/file/d/1mlEA1vZDXtZYUza5Esf5D1dsyPu3-RjT/view?usp=share_link). A bit of science fiction: the N.C. pin on the left side was probably intended to trigger the TADD pin of a M64283FP, variant of the M64282FP used with the camera. This pin is always high when camera is powered on and seems not connected to any logic. The current sensor does not need this extra trigger (the corresponding pin, TSW, is not connected on the M64282FP). The N.C. pin on the upper side is probably a RAM_CE1, seeing the proximity with RAM_CE2. 
+
+Surprisingly, GND pins on the right side are mostly regular logic pins just set to ground whatever the manner. They may have been prepared/reserved for addressing bigger ram/rom.
 
 ![MAC-GBD](Previews/MAC-GBD%20Nintendo%209815%20SB-preview.png)
 
