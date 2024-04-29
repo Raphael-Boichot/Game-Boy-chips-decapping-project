@@ -77,7 +77,7 @@ Camera CE10251329, PCB revision 11 - Unknown manufacturer - Chip marking: **MAC-
 
 ![MAC-GBD](Previews/MAC-GBD%20Nintendo%209815%20SA-preview.png)
 
-Camera CE10022941, PCB revision 10 - Unknown manufacturer - Chip marking: **MAC-GBD Nintendo 9815 SB** [High resolution here](https://drive.google.com/file/d/1mlEA1vZDXtZYUza5Esf5D1dsyPu3-RjT/view?usp=share_link). A bit of science fiction: the N.C. pin on the left side was probably intended to trigger the TADD pin of a M64283FP, variant of the M64282FP used with the camera. This pin is always high when camera is powered on and seems not connected to any logic. The current sensor does not need this extra trigger (the corresponding pin, TSW, is not connected on the M64282FP). The N.C. pin on the upper side is probably a RAM_CE1, seeing the proximity with RAM_CE2. 
+Camera CE10022941, PCB revision 10 - Unknown manufacturer - Chip marking: **MAC-GBD Nintendo 9815 SB** [High resolution here](https://drive.google.com/file/d/1mlEA1vZDXtZYUza5Esf5D1dsyPu3-RjT/view?usp=share_link). A bit of science fiction: the N.C. pin on the left side (above CAM_CLK) was probably intended to trigger the TADD pin of a M64283FP, variant of the M64282FP used with the camera. This pin is always high when camera is powered on and seems not connected to any logic. The current sensor does not need this extra trigger (the corresponding pin, TSW, is not connected on the M64282FP). The N.C. pin on the upper side is probably a RAM_CE1, seeing the proximity with RAM_CE2. 
 
 Surprisingly, GND pins on the right side are mostly regular logic pins just set to ground whatever the manner. They may have been prepared/reserved for addressing bigger ram/rom.
 
