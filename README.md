@@ -123,7 +123,7 @@ Game: **F1 Race**, Manufacturer: **Sharp** - Chip marking: **DMG-F1A-1 S LH5308P
 # 1 Mbytes maskrom
 Game: **Pocket Camera PC10449615**, PCB revision 01 - Manufacturer: **Macronix** - Chip marking: **MX J9805-M MX23C8004-12 GBD-PCAJ-1 23718A** [High resolution here](https://drive.google.com/file/d/1jiTbQbAO0CLP6eZrTFgcgWZXoKBek40G/view?usp=sharing)
 
-![Pocket Camera Maskrom]Previews/MX%20J9805-M%20MX23C8004-12%20GBD-PCAJ-1%2023718A-preview.png)
+![Pocket Camera Maskrom](Previews/MX%20J9805-M%20MX23C8004-12%20GBD-PCAJ-1%2023718A-preview.png)
 
 # 128 kbytes sram
 Game: **Pocket Camera PC10449615**, PCB revision 01 - Manufacturer: **Sharp/LG** - Chip marking: **52CV1000SF85LL SHARP JAPAN 9752 3 0A** [High resolution here](https://drive.google.com/file/d/165wjuTwJ_VMFnYcZ2iV-7jxmVmYcFwEk/view?usp=sharing)
