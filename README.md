@@ -4,7 +4,7 @@
 
 Decapping and images made by [Raphaël BOICHOT](https://github.com/Raphael-Boichot), most of the chips donated by [Dorian](https://github.com/dori4n), [Prominos](https://github.com/prominos), others from the author personnal collection and from [Rafael ZENARO](https://github.com/zenaro147). Please credit authors.
 
-**Take this repo as it is. It probably won't be updated anymore because it's a lot of work for basically no reward. If you're not happy with the content (image quality, choice of chips, magnification, etc.), just move on.**
+**Take this repo as it is. It probably won't be updated anymore because it's a crazy amount of work for basically no reward. If you're not happy with the content (image quality, choice of chips, magnification, etc.), just move on.**
 
 The silicon dies were extracted from epoxy matrix by dipping chips in boiling 70% nitric acid until no red fumes degases from the beaker. The black residuals at the end of reaction were removed with 1-2 minutes treatment in water with ultrasonic bath. After rincing with lot of deionized water, dies were finally gently cleaned with isopropanol and a cotton bud to remove any dust and residue before imaging with a very expensive and powerfull microscope.
 
